@@ -1,0 +1,7 @@
+transformers
+huggingface_hub
+torch
+pymongo
+SpeechRecognition
+pyaudio
+pyttsx3 
